@@ -3498,6 +3498,24 @@
     }
   },
   {
+    "name": "Timesheet MCP Server",
+    "url": "https://github.com/timesheetIO/timesheet-mcp",
+    "description": "Official Timesheet time tracking server: run timers, log work, manage projects, todos, expenses and absences, and pull reports and exports.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Timesheet",
+    "tags": [
+      "time-tracking",
+      "timesheet",
+      "productivity",
+      "hosted"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.timesheet.io"
+    }
+  },
+  {
     "name": "Warden MCP",
     "url": "https://github.com/warden-protocol/warden-mcp",
     "description": "Remote MCP server for Warden Token Terminal: AI agents find tokens, quote swaps and trade onchain on Base, BNB Chain, Robinhood Chain and Arc within user-set limits.",
